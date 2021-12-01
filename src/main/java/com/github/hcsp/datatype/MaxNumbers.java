@@ -1,4 +1,5 @@
 package com.github.hcsp.datatype;
+
 public class MaxNumbers {
     // byte类型能存储的最大值是？
     // The maximum value a byte type can store
@@ -14,7 +15,7 @@ public class MaxNumbers {
 
     // long类型能存储的最大值是？
     // The maximum value an long type can store
-    public static long maxLong =0x7fffffffffffffffL;
+    public static long maxLong = 0x7fffffffffffffffL;
 
     // float类型能存储的最大值是？
     // The maximum value an float type can store
